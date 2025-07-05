@@ -1,0 +1,17 @@
+HEADER    NONAME 21-Apr-23                                              NONE   1
+TITLE                                                                   NONE   2
+AUTHOR    Apache                                                        NONE   3
+REVDAT   1  21-Apr-23     0                                             NONE   4
+ATOM      1  C           0       1.232  -0.181  -0.000  0.00  0.00           C+0
+ATOM      2  C           0      -0.122   0.480   0.000  0.00  0.00           C+0
+ATOM      3  C           0      -1.208  -0.251  -0.000  0.00  0.00           C+0
+ATOM      4  H           0       2.010   0.582   0.000  0.00  0.00           H+0
+ATOM      5  H           0       1.333  -0.803   0.890  0.00  0.00           H+0
+ATOM      6  H           0       1.333  -0.803  -0.890  0.00  0.00           H+0
+ATOM      7  H           0      -0.196   1.558   0.000  0.00  0.00           H+0
+ATOM      8  H           0      -2.179   0.223  -0.000  0.00  0.00           H+0
+ATOM      9  H           0      -1.134  -1.329   0.000  0.00  0.00           H+0
+CONECT    1    2    4    5    6                                         NONE  14
+CONECT    2    1    3    7    0                                         NONE  15
+CONECT    3    2    8    9    0                                         NONE  16
+END

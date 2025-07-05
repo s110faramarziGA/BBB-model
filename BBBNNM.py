@@ -17,10 +17,14 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.metrics import accuracy_score, recall_score
 from sklearn import datasets
+import os
 
 #%% Load training set
+# Set working directory to the directory where the script is located
+script_dir = os.path.dirname(os.path.abspath(__file__))
+os.chdir(script_dir)
 # Load dataset from an Excel file. This dataset includes a column 'Activity score'.
-TS = pd.read_excel('D:\\Codes\\Structures\\DataSheet1_Development of QSAR models to predict blood-brain barrier permeability.xlsx', index_col=0)
+TS = pd.read_excel('DataSheet1_Development of QSAR models to predict blood-brain barrier permeability.xlsx', index_col=0)
 
 # Extract the 'Activity score' column and convert it to a NumPy array
 act = TS['Activity score']

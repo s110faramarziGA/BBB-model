@@ -1,0 +1,155 @@
+TITLE      NONE   2
+REMARK   1 File created by GaussView 5.0.8
+HETATM    1  C           0       3.174   3.372   0.094                       C
+HETATM    2  C           0       3.099   1.834   0.111                       C
+HETATM    3  C           0       2.831   1.315  -1.314                       C
+HETATM    4  C           0       4.445   1.263   0.601                       C
+HETATM    5  N           0       5.401   0.974  -0.202                       N
+HETATM    6  C           0       6.365   0.285   0.622                       C
+HETATM    7  N           0       5.940   0.227   1.843                       N
+HETATM    8  O           0       4.787   0.981   1.978                       O
+HETATM    9  C           0       7.694  -0.295   0.097                       C
+HETATM   10  C           0       8.596  -0.922   0.961                       C
+HETATM   11  C           0       9.757  -1.423   0.470                       C
+HETATM   12  C           0      10.046  -1.321  -0.856                       C
+HETATM   13  C           0       9.183  -0.715  -1.713                       C
+HETATM   14  C           0       8.014  -0.200  -1.261                       C
+HETATM   15  N           0       1.998   1.413   0.992                       N
+HETATM   16  C           0       0.742   1.920   0.414                       C
+HETATM   17  O           0       0.754   2.991  -0.246                       O
+HETATM   18  C           0      -0.584   1.152   0.584                       C
+HETATM   19  C           0      -0.663   0.069   1.408                       C
+HETATM   20  C           0      -2.027  -0.507   1.865                       C
+HETATM   21  C           0      -3.134  -0.173   0.892                       C
+HETATM   22  C           0      -4.504  -0.510   1.473                       C
+HETATM   23  C           0      -5.530  -0.402   0.334                       C
+HETATM   24  N           0      -5.540   0.964  -0.187                       N
+HETATM   25  C           0      -4.211   1.391  -0.684                       C
+HETATM   26  C           0      -3.137   1.267   0.422                       C
+HETATM   27  C           0      -1.799   1.608  -0.247                       C
+HETATM   28  O           0      -3.388   2.119   1.544                       O
+HETATM   29  C           0      -3.677   0.516  -1.890                       C
+HETATM   30  C           0      -3.194  -0.909  -1.443                       C
+HETATM   31  C           0      -2.873  -1.102  -0.175                       C
+HETATM   32  C           0      -2.286  -2.160   0.351                       C
+HETATM   33  C           0      -2.035  -3.249  -0.473                       C
+HETATM   34  C           0      -2.463  -3.138  -1.825                       C
+HETATM   35  C           0      -3.049  -1.969  -2.287                       C
+HETATM   36  O           0      -1.387  -4.426   0.017                       O
+HETATM   37  O           0      -2.008  -1.971   1.798                       O
+HETATM   38  C           0      -6.485   1.055  -1.316                       C
+HETATM   39  C           0      -7.892   0.618  -0.870                       C
+HETATM   40  C           0      -9.015   0.165  -1.809                       C
+HETATM   41  C           0      -8.354  -0.847  -0.814                       C
+HETATM   42  O           0       0.545  -0.547   1.866                       O
+HETATM   43  H           0       2.247   3.769  -0.261                       H
+HETATM   44  H           0       3.359   3.732   1.084                       H
+HETATM   45  H           0       3.966   3.682  -0.552                       H
+HETATM   46  H           0       3.625   1.623  -1.961                       H
+HETATM   47  H           0       2.777   0.246  -1.300                       H
+HETATM   48  H           0       1.905   1.714  -1.671                       H
+HETATM   49  H           0       8.373  -1.007   2.003                       H
+HETATM   50  H           0      10.450  -1.903   1.129                       H
+HETATM   51  H           0      10.965  -1.723  -1.229                       H
+HETATM   52  H           0       9.427  -0.643  -2.754                       H
+HETATM   53  H           0       7.338   0.276  -1.939                       H
+HETATM   54  H           0       1.965   0.415   1.043                       H
+HETATM   55  H           0      -2.218  -0.113   2.842                       H
+HETATM   56  H           0      -4.501  -1.512   1.848                       H
+HETATM   57  H           0      -4.745   0.162   2.269                       H
+HETATM   58  H           0      -5.262  -1.082  -0.449                       H
+HETATM   59  H           0      -6.503  -0.650   0.704                       H
+HETATM   60  H           0      -4.312   2.404  -1.015                       H
+HETATM   61  H           0      -1.758   2.662  -0.426                       H
+HETATM   62  H           0      -1.745   1.077  -1.175                       H
+HETATM   63  H           0      -4.235   1.892   1.936                       H
+HETATM   64  H           0      -4.434   0.435  -2.641                       H
+HETATM   65  H           0      -2.819   1.017  -2.287                       H
+HETATM   66  H           0      -2.328  -3.963  -2.491                       H
+HETATM   67  H           0      -3.374  -1.895  -3.303                       H
+HETATM   68  H           0      -2.049  -5.039   0.350                       H
+HETATM   69  H           0      -6.520   2.067  -1.664                       H
+HETATM   70  H           0      -6.155   0.416  -2.109                       H
+HETATM   71  H           0      -8.194   1.285  -0.089                       H
+HETATM   72  H           0     -10.029   0.460  -1.637                       H
+HETATM   73  H           0      -8.843   0.043  -2.858                       H
+HETATM   74  H           0      -7.712  -1.588  -1.242                       H
+HETATM   75  H           0      -8.851  -1.205   0.063                       H
+HETATM   76  H           0       1.238   0.114   1.923                       H
+END
+CONECT    1    2   43   44   45
+CONECT    2    1    3    4   15
+CONECT    3    2   46   47   48
+CONECT    4    2    8    5
+CONECT    5    4    6
+CONECT    6    5    7    9
+CONECT    7    6    8
+CONECT    8    7    4
+CONECT    9    6   14   10
+CONECT   10    9   11   49
+CONECT   11   10   12   50
+CONECT   12   11   13   51
+CONECT   13   12   14   52
+CONECT   14   13    9   53
+CONECT   15    2   16   54
+CONECT   16   15   17   18
+CONECT   17   16
+CONECT   18   16   27   19
+CONECT   19   18   20   42
+CONECT   20   19   37   21   55
+CONECT   21   20   26   31   22
+CONECT   22   21   23   56   57
+CONECT   23   22   24   58   59
+CONECT   24   23   25   38
+CONECT   25   24   26   29   60
+CONECT   26   25   21   27   28
+CONECT   27   26   18   61   62
+CONECT   28   26   63
+CONECT   29   25   30   64   65
+CONECT   30   29   35   31
+CONECT   31   30   21   32
+CONECT   32   31   33   37
+CONECT   33   32   34   36
+CONECT   34   33   35   66
+CONECT   35   34   30   67
+CONECT   36   33   68
+CONECT   37   32   20
+CONECT   38   24   39   69   70
+CONECT   39   38   41   40   71
+CONECT   40   39   41   72   73
+CONECT   41   40   39   74   75
+CONECT   42   19   76
+CONECT   43    1
+CONECT   44    1
+CONECT   45    1
+CONECT   46    3
+CONECT   47    3
+CONECT   48    3
+CONECT   49   10
+CONECT   50   11
+CONECT   51   12
+CONECT   52   13
+CONECT   53   14
+CONECT   54   15
+CONECT   55   20
+CONECT   56   22
+CONECT   57   22
+CONECT   58   23
+CONECT   59   23
+CONECT   60   25
+CONECT   61   27
+CONECT   62   27
+CONECT   63   28
+CONECT   64   29
+CONECT   65   29
+CONECT   66   34
+CONECT   67   35
+CONECT   68   36
+CONECT   69   38
+CONECT   70   38
+CONECT   71   39
+CONECT   72   40
+CONECT   73   40
+CONECT   74   41
+CONECT   75   41
+CONECT   76   42

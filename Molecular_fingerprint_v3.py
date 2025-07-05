@@ -99,30 +99,30 @@ fpArray=pd.DataFrame({})
 #%% use molecular 3d structure to generate a fingerprint. The fingerprint will be appended to an array of fingerprints to make an input for the NN
 def molFp(mNum):
     
-    #%%  taken from http://rasbt.github.io/biopandas/tutorials/Working_with_PDB_Structures_in_DataFrames/
+    #  taken from http://rasbt.github.io/biopandas/tutorials/Working_with_PDB_Structures_in_DataFrames/
 #fetch pdb. this command is to fetch PDB online but it will give error if not used for loading files from the local descktop 
     ppdb = PandasPdb()#.fetch_pdb('3eiy')
     #load file from the local desktop
     #temporary test files
     # fpath='file directory'
     
-    fpath='file directory'
+    fpath=''
     
     
     
     # filename=('file directory'+str(xx)+''.pdb')
-    filename=fpath+str(mNum)+'.pdb'
+    filename=fpath+str(mNum)
     p_1=ppdb.read_pdb(filename)
     # print('PDB Code: %s' % ppdb.code)
     # print('PDB Header Line: %s' % ppdb.header)
     # print('\nRaw PDB file contents:\n\n%s\n...' % ppdb.pdb_text[:1000])
-    #%% ATOM or HETATM names should correspond to the first column of the pdb file
+    # ATOM or HETATM names should correspond to the first column of the pdb file
     pdbdf=ppdb.df['HETATM']
     if len(pdbdf)==0:
         pdbdf=ppdb.df['ATOM']
     #[ppdb.df['HETATM']['element_symbol'] != 'OH'].head()
     pdbdf.shape
-    #%%Functions
+    #Functions
     #diostance in 3d space
     def dista(atom1, atom2):
         distancea=(((pdbdf['x_coord'][atom2]-pdbdf['x_coord'][atom1])**2)+((pdbdf['y_coord'][atom2]-pdbdf['y_coord'][atom1])**2)+((pdbdf['z_coord'][atom2]-pdbdf['z_coord'][atom1])**2))**0.5
@@ -146,7 +146,7 @@ def molFp(mNum):
         return list(set(lst1) & set(lst2))
     
     
-    #%%
+    #
     #calculate molecular weight from smiles
     # http://rdkit.org/docs/source/rdkit.Chem.rdmolfiles.html?highlight=pdb
     
@@ -154,25 +154,25 @@ def molFp(mNum):
     # mol_weight = Descriptors.MolWt(m)
     # m=rdkit.Chem.rdmolfiles.MolFromPDBFile('./water.pdb')
     # mol_weight = Descriptors.MolWt(m)
-        #%%
+        #
         # reference_point = (9.362, 41.410, 10.542)
         # distances = p_1.distance(xyz=('ATOM',), records=('ATOM',))
         
         # distances.head()
         
     
-    #%%  create a pandas df for the molecular fingerprint. 
+    #  create a pandas df for the molecular fingerprint. 
 
     fpnames=pd.DataFrame({'molecular mass':[0],'mlogp':[0],'tpsa':[0],'HAccept':[0],'HDon':[0],'nrotate':[0]})
     
     
-    #%%
+    #
     # for col in pdbdf.columns:
     #     print(col)
         
     # xx=pdbdf['atom_name']
     # print(xx)
-    #%% Molecular formulaa: make molecular formula from pdb file. Later the formula will be used to calculare MW.
+    # Molecular formulaa: make molecular formula from pdb file. Later the formula will be used to calculare MW.
     # elsymb=pdbdf['element_symbol']
     
     #count number of each element
@@ -186,7 +186,7 @@ def molFp(mNum):
         formula=formula+countEl.index[i]+str(countEl[i])
     # print(molecular_mass(formula))
     fpnames['molecular mass']=molecular_mass(formula)
-    #%% Use SMILES to Calculate MlogP and TPSA (topological polar surface area) etc for lipophilicity assessment. Look at https://www.rdkit.org/docs/index.html for more parameters
+    # Use SMILES to Calculate MlogP and TPSA (topological polar surface area) etc for lipophilicity assessment. Look at https://www.rdkit.org/docs/index.html for more parameters
     # convert pdb file to smiles  https://www.rdkit.org/docs/source/rdkit.Chem.rdmolfiles.html
     mol = rdkit.Chem.rdmolfiles.MolFromPDBFile(filename)
     mlogp=Descriptors.MolLogP(mol)
@@ -264,7 +264,7 @@ def molFp(mNum):
     # fpnames['Ip2']=Ip[1]
     # fpnames['Ip3']=Ip[2]
     
-    #%% find a functional group or an structural scaffold in the PDB file based on the distances between the key atoms in the functional group
+    # find a functional group or an structural scaffold in the PDB file based on the distances between the key atoms in the functional group
     #return coordinates of atoms
     # for col in pdbdf.columns:
     #     print(col)
@@ -296,7 +296,7 @@ def molFp(mNum):
     carboxylicAr=list(set(carboxylicAr))                            
     # print('number of carboxylic acid groups:',ii/2)
     fpnames['carboxylic acid']=ii/2
-    #%%
+    #
     # carboxylate
     ii=0
     for i in range(len(pdbdf['atom_name'])):
@@ -314,7 +314,7 @@ def molFp(mNum):
     # print('number of carboxylate groups:',ii/2)
     fpnames['carboxylate']=ii/2
                                     
-    #%%
+    #
     #ester
     estoxy=[]
     ii=0
@@ -370,7 +370,7 @@ def molFp(mNum):
                                             
     # print('number of ether groups:',len(etherOxygenArr))
     fpnames['ether']=len(etherOxygenArr) 
-    #%% alcohol
+    # alcohol
     ii=0
     for i in range(len(pdbdf['atom_name'])):
         if 'O' in  pdbdf['atom_name'][i]:
@@ -386,7 +386,7 @@ def molFp(mNum):
     fpnames['alcohol']=ii
       
     
-    #%%
+    #
     #amide
     amideN=[]
     ii=0
@@ -406,7 +406,7 @@ def molFp(mNum):
     amideN=list(set(amideN))
     # print('number of amide groups:',len(amideN)) 
     fpnames['amide']=len(amideN)                                     
-    #%% primary amine
+    # primary amine
     ii=0
     for i in range(len(pdbdf['atom_name'])):
         if 'N' in pdbdf['atom_name'][i] and i not in amideN:
@@ -427,7 +427,7 @@ def molFp(mNum):
                                                     
                                                     # print('primary amine for atoms:',i+1,j+1,k+1,l+1,m+1)
     fpnames['primary amine']=ii/4
-    #%% secondary amine
+    # secondary amine
     ii=0
     for i in range(len(pdbdf['atom_name'])):
         if 'N' in pdbdf['atom_name'][i] and i not in amideN:
@@ -442,7 +442,7 @@ def molFp(mNum):
     # print('number of secondary amines:', ii/2)
     fpnames['secondary amine']=ii/2
     
-    #%% tertiary amine or 4 valence nitrogen
+    # tertiary amine or 4 valence nitrogen
     TertAmAr=[]
     ii=0
     jj=0
@@ -496,7 +496,7 @@ def molFp(mNum):
     fpnames['tertiary amine']=ii/6 
     
                           
-    #%% keton
+    # keton
     ii=0
     for i in range(len(pdbdf['atom_name'])):
         if 'O' in pdbdf['atom_name'][i]:
@@ -510,7 +510,7 @@ def molFp(mNum):
                                     # print('ketone for atoms:',i+1,j+1,k+1,l+1)
     # print('number of ketone groups:',ii/2)
     fpnames['keton']=ii/2
-    #%% aldehyde
+    # aldehyde
     # ii=0
     # for i in range(len(pdbdf['atom_name'])):
     #     if 'O' in pdbdf['atom_name'][i]:
@@ -525,10 +525,10 @@ def molFp(mNum):
     # print('number of aldehyde groups:',ii)
     # fpnames['aldehyde']=ii
       
-    #%%                                                                               
+    #                                                                               
     
     
-    #%%                                                                               
+    #                                                                               
     #ether
     # ii=0
     # duma=[]
@@ -554,9 +554,9 @@ def molFp(mNum):
     #                                     print('ether found for atoms:',i+1,j+1,k+1,l+1)
     # print('number of ether groups:',ii/2)
     # fpnames['ether']=ii/2   
-    #%%
+    #
                                
-    #%%                                                                               
+    #                                                                               
     #cyanide
     ii=0
     for i in range(len(pdbdf['atom_name'])):
@@ -581,7 +581,7 @@ def molFp(mNum):
     # print('number of cyanide groups:',ii)
     # fpnames['cyanate']=ii      
     
-    #%%
+    #
     #epoxide
     ii=0
     for i in range(len(pdbdf['atom_name'])):
@@ -595,7 +595,7 @@ def molFp(mNum):
     # print('number of epoxide groups:',ii/2)
     fpnames['epoxide']=ii/2        
                                                                                                                                         
-    #%%
+    #
     #Sulfonyl
     Sulfonylsu=[]
     
@@ -622,7 +622,7 @@ def molFp(mNum):
     # print('number of sulfonyl groups:',len(Sulfonylsu)) 
     fpnames['sulfonyl']=len(Sulfonylsu)  
     
-    #%% cyclohexane
+    # cyclohexane
     cyclohexAr=[]
     ii=0
     for i in range(len(pdbdf['atom_name'])):
@@ -648,7 +648,7 @@ def molFp(mNum):
     fpnames['cyclohexane']=ii/12   
     # print([x + 1 for x in cyclohexAr])
     # print(ii)
-    #%% cyclopentane
+    # cyclopentane
     cyclopenAr=[]
     ii=0
     for i in range(len(pdbdf['atom_name'])):
@@ -670,7 +670,7 @@ def molFp(mNum):
     cyclopenAr=list(set(cyclopenAr))                               
     # fpnames['cyclopentane']=len(cyclopenAr)/5  
     # # print([x + 1 for x in cyclopenAr])                   
-    #%% piperidine
+    # piperidine
     pprAr=[]
     ii=0
     for i in range(len(pdbdf['atom_name'])):
@@ -698,7 +698,7 @@ def molFp(mNum):
     pprAr=list(set(pprAr))                               
     fpnames['piperidine']=len(pprAr)  
     # print([x + 1 for x in pprAr])
-    #%% pyrrolidine
+    # pyrrolidine
     pyrrolidineAr=[]
     ii=0
     for i in range(len(pdbdf['atom_name'])):
@@ -720,7 +720,7 @@ def molFp(mNum):
     pyrrolidineAr=list(set(pyrrolidineAr))                               
     fpnames['pyrrolidine']=len(pyrrolidineAr) 
     # print([x + 1 for x in pyrrolidineAr])
-    #%% benzene
+    # benzene
     benzAr=[]
     ii=0
     for i in range(len(pdbdf['atom_name'])):
@@ -750,7 +750,7 @@ def molFp(mNum):
     fpnames['benzene']=round(ii/12)  
     # print([x + 1 for x in cyclohexAr])
     # print(ii)
-    #%% Methoxybenzene, methylaniline 
+    # Methoxybenzene, methylaniline 
     MethoxybenzeneAr=[]
     methylanilineAr=[]
     # this one is seen in some drugs of abuse such as opioids
@@ -779,7 +779,7 @@ def molFp(mNum):
                 
     
     
-    #%% pyridine
+    # pyridine
     pyrAr=[]
     ii=0
     for i in range(len(pdbdf['atom_name'])):
@@ -807,7 +807,7 @@ def molFp(mNum):
     pyrAr=list(set(pyrAr))                               
     fpnames['pyridine']=len(pyrAr) 
     # print(pyrAr)
-    #%% pyrrole
+    # pyrrole
     pyrroleAr=[]
     ii=0
     for i in range(len(pdbdf['atom_name'])):
@@ -829,14 +829,14 @@ def molFp(mNum):
     pyrroleAr=list(set(pyrroleAr))                               
     fpnames['pyrrole']=len(pyrroleAr) 
     # print([x + 1 for x in pyrrolidineAr])
-    #%% number of fluorine atoms. F atoms are believed to favor BBB penetration. DOI: 10.1021/acs.jmedchem.1c00910
+    # number of fluorine atoms. F atoms are believed to favor BBB penetration. DOI: 10.1021/acs.jmedchem.1c00910
     FlAr=[]
     for i in range(len(pdbdf['atom_name'])):
         if 'F' in pdbdf['atom_name'][i]:
             FlAr.extend([i])
     FlAr=list(set(FlAr))                               
     fpnames['fluorine']=len(FlAr)
-    #%% LAT1 substrate alert. DOI:10.1021/acs.jmedchem.1c00910
+    # LAT1 substrate alert. DOI:10.1021/acs.jmedchem.1c00910
     latAr=[]
     ii=0
     
@@ -862,7 +862,7 @@ def molFp(mNum):
     fpnames['lat1']=len(latAr)
     # print([x + 1 for x in cyclohexAr])
     # print(ii)  
-    #%% linear alkane chain carbons
+    # linear alkane chain carbons
     laccAr=[]
     ii=0
     
@@ -914,7 +914,7 @@ def molFp(mNum):
                 
             
             
-    #%% any 6 atom ring
+    # any 6 atom ring
     saAr=[]
     ii=0
     for i in range(len(pdbdf['atom_name'])):
@@ -949,7 +949,7 @@ def molFp(mNum):
     # print([x + 1 for x in cyclohexAr])
     # print(ii)
 
-    #%% a benzene ring connected to a tertiary amine via two carbon atoms. The feature is seen in opioids
+    # a benzene ring connected to a tertiary amine via two carbon atoms. The feature is seen in opioids
     opAr=[]
     ii=0
     for i in range(len(pdbdf['atom_name'])):
@@ -971,7 +971,7 @@ def molFp(mNum):
                                    
     opAr=list(set(opAr)) 
     fpnames['opioid feature']=len(opAr)     
-    #%% longest distance
+    # longest distance
     # distanceAr=[]
     # ii=0
     # for i in range(len(pdbdf['atom_name'])):
@@ -989,26 +989,39 @@ def molFp(mNum):
     
     
 
-    #%%                                 
+    #                                 
                                             
                                    
       
     # fpArray.append(fpnames) 
     return  fpnames  
 #%%  append fpnames to fpArray 
-fpath='D:\Professional\TheProject\Codes\Structures\pdb\\'
+#fpath='D:\Professional\TheProject\Codes\Structures\pdb\\'
+script_dir = os.getcwd() 
+
+# Define the path to the subdirectory
+fpath = os.path.join(script_dir, r'Structures', 'pdb')  
 #temporary test files
 # fpath='D:\\Professional\\TheProject\\Codes\\Structures\\pdb\\temp\\'
 count = 0
 # Iterate directory
+# for path in os.listdir(fpath):
+#     # check if current path is a file
+#     if os.path.isfile(os.path.join(fpath, path)):
+#         count += 1
+#         fpnamesO=molFp(count)
+#         # fpArray = fpArray.append(fpnamesO, ignore_index = True) 
+#         fpArray = pd.concat([fpArray,fpnamesO])
+#         print('*************************  File count:', count,'********************')
+        
 for path in os.listdir(fpath):
-    # check if current path is a file
-    if os.path.isfile(os.path.join(fpath, path)):
+    full_path = os.path.join(fpath, path)
+    if os.path.isfile(full_path):
         count += 1
-        fpnamesO=molFp(count)
-        # fpArray = fpArray.append(fpnamesO, ignore_index = True) 
-        fpArray = pd.concat([fpArray,fpnamesO])
-        print('*************************  File count:', count,'********************')
+        fpnamesO = molFp(full_path)  # pass full path instead of just a number
+        fpArray = pd.concat([fpArray, fpnamesO])
+        print('********** File count:', count, '**********')
+
 
 #%% write fpArray as a file
 fpArray.to_csv('fpArray.csv')
