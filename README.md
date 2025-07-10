@@ -28,4 +28,4 @@ The goal of this project is to develop neural networks that (1) utilize new and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git](https://github.com/s110faramarziGA/BBB-model
+   git clone https://github.com/s110faramarziGA/BBB-model
