@@ -1,0 +1,1845 @@
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\1.pdb
+INFO:root:Finished 1: 1.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\10.pdb
+INFO:root:Finished 2: 10.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\100.pdb
+INFO:root:Finished 3: 100.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\101.pdb
+INFO:root:Finished 4: 101.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\102.pdb
+INFO:root:Finished 5: 102.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\103.pdb
+INFO:root:Finished 6: 103.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\104.pdb
+INFO:root:Finished 7: 104.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\105.pdb
+INFO:root:Finished 8: 105.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\106.pdb
+INFO:root:Finished 9: 106.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\107.pdb
+INFO:root:Finished 10: 107.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\108.pdb
+INFO:root:Finished 11: 108.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\109.pdb
+INFO:root:Finished 12: 109.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\11.pdb
+INFO:root:Finished 13: 11.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\110.pdb
+INFO:root:Finished 14: 110.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\111.pdb
+INFO:root:Finished 15: 111.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\112.pdb
+INFO:root:Finished 16: 112.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\113.pdb
+INFO:root:Finished 17: 113.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\114.pdb
+INFO:root:Finished 18: 114.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\115.pdb
+INFO:root:Finished 19: 115.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\116.pdb
+INFO:root:Finished 20: 116.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\117.pdb
+INFO:root:Finished 21: 117.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\118.pdb
+INFO:root:Finished 22: 118.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\119.pdb
+INFO:root:Finished 23: 119.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\12.pdb
+INFO:root:Finished 24: 12.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\120.pdb
+INFO:root:Finished 25: 120.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\121.pdb
+INFO:root:Finished 26: 121.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\122.pdb
+INFO:root:Finished 27: 122.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\123.pdb
+INFO:root:Finished 28: 123.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\124.pdb
+INFO:root:Finished 29: 124.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\125.pdb
+INFO:root:Finished 30: 125.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\126.pdb
+INFO:root:Finished 31: 126.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\127.pdb
+INFO:root:Finished 32: 127.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\128.pdb
+INFO:root:Finished 33: 128.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\129.pdb
+INFO:root:Finished 34: 129.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\13.pdb
+INFO:root:Finished 35: 13.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\130.pdb
+INFO:root:Finished 36: 130.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\131.pdb
+INFO:root:Finished 37: 131.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\132.pdb
+INFO:root:Finished 38: 132.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\133.pdb
+INFO:root:Finished 39: 133.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\134.pdb
+INFO:root:Finished 40: 134.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\135.pdb
+INFO:root:Finished 41: 135.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\136.pdb
+INFO:root:Finished 42: 136.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\137.pdb
+INFO:root:Finished 43: 137.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\138.pdb
+INFO:root:Finished 44: 138.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\139.pdb
+INFO:root:Finished 45: 139.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\14.pdb
+INFO:root:Finished 46: 14.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\140.pdb
+INFO:root:Finished 47: 140.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\141.pdb
+INFO:root:Finished 48: 141.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\142.pdb
+INFO:root:Finished 49: 142.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\143.pdb
+INFO:root:Finished 50: 143.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\144.pdb
+INFO:root:Finished 51: 144.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\145.pdb
+INFO:root:Finished 52: 145.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\146.pdb
+INFO:root:Finished 53: 146.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\147.pdb
+INFO:root:Finished 54: 147.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\148.pdb
+INFO:root:Finished 55: 148.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\149.pdb
+INFO:root:Finished 56: 149.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\15.pdb
+INFO:root:Finished 57: 15.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\150.pdb
+INFO:root:Finished 58: 150.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\151.pdb
+INFO:root:Finished 59: 151.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\152.pdb
+INFO:root:Finished 60: 152.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\153.pdb
+INFO:root:Finished 61: 153.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\154.pdb
+INFO:root:Finished 62: 154.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\155.pdb
+INFO:root:Finished 63: 155.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\156.pdb
+INFO:root:Finished 64: 156.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\157.pdb
+INFO:root:Finished 65: 157.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\158.pdb
+INFO:root:Finished 66: 158.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\159.pdb
+INFO:root:Finished 67: 159.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\16.pdb
+INFO:root:Finished 68: 16.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\160.pdb
+INFO:root:Finished 69: 160.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\161.pdb
+INFO:root:Finished 70: 161.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\162.pdb
+INFO:root:Finished 71: 162.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\163.pdb
+INFO:root:Finished 72: 163.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\164.pdb
+INFO:root:Finished 73: 164.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\165.pdb
+INFO:root:Finished 74: 165.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\166.pdb
+INFO:root:Finished 75: 166.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\167.pdb
+INFO:root:Finished 76: 167.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\168.pdb
+INFO:root:Finished 77: 168.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\169.pdb
+INFO:root:Finished 78: 169.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\17.pdb
+INFO:root:Finished 79: 17.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\170.pdb
+INFO:root:Finished 80: 170.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\171.pdb
+INFO:root:Finished 81: 171.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\172.pdb
+INFO:root:Finished 82: 172.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\173.pdb
+INFO:root:Finished 83: 173.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\174.pdb
+INFO:root:Finished 84: 174.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\175.pdb
+INFO:root:Finished 85: 175.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\176.pdb
+INFO:root:Finished 86: 176.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\177.pdb
+INFO:root:Finished 87: 177.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\178.pdb
+INFO:root:Finished 88: 178.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\179.pdb
+INFO:root:Finished 89: 179.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\18.pdb
+INFO:root:Finished 90: 18.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\180.pdb
+INFO:root:Finished 91: 180.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\181.pdb
+INFO:root:Finished 92: 181.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\182.pdb
+INFO:root:Finished 93: 182.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\183.pdb
+INFO:root:Finished 94: 183.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\184.pdb
+INFO:root:Finished 95: 184.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\185.pdb
+INFO:root:Finished 96: 185.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\186.pdb
+INFO:root:Finished 97: 186.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\187.pdb
+INFO:root:Finished 98: 187.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\188.pdb
+INFO:root:Finished 99: 188.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\189.pdb
+INFO:root:Finished 100: 189.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\19.pdb
+INFO:root:Finished 101: 19.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\190.pdb
+INFO:root:Finished 102: 190.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\191.pdb
+INFO:root:Finished 103: 191.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\192.pdb
+INFO:root:Finished 104: 192.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\193.pdb
+INFO:root:Finished 105: 193.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\194.pdb
+INFO:root:Finished 106: 194.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\195.pdb
+INFO:root:Finished 107: 195.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\196.pdb
+INFO:root:Finished 108: 196.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\197.pdb
+INFO:root:Finished 109: 197.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\198.pdb
+INFO:root:Finished 110: 198.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\199.pdb
+INFO:root:Finished 111: 199.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\2.pdb
+INFO:root:Finished 112: 2.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\20.pdb
+INFO:root:Finished 113: 20.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\200.pdb
+INFO:root:Finished 114: 200.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\201.pdb
+INFO:root:Finished 115: 201.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\202.pdb
+INFO:root:Finished 116: 202.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\203.pdb
+INFO:root:Finished 117: 203.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\204.pdb
+INFO:root:Finished 118: 204.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\205.pdb
+INFO:root:Finished 119: 205.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\206.pdb
+INFO:root:Finished 120: 206.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\207.pdb
+INFO:root:Finished 121: 207.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\208.pdb
+INFO:root:Finished 122: 208.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\209.pdb
+INFO:root:Finished 123: 209.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\21.pdb
+INFO:root:Finished 124: 21.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\210.pdb
+INFO:root:Finished 125: 210.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\211.pdb
+INFO:root:Finished 126: 211.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\212.pdb
+INFO:root:Finished 127: 212.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\213.pdb
+INFO:root:Finished 128: 213.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\214.pdb
+INFO:root:Finished 129: 214.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\215.pdb
+INFO:root:Finished 130: 215.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\216.pdb
+INFO:root:Finished 131: 216.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\217.pdb
+INFO:root:Finished 132: 217.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\218.pdb
+INFO:root:Finished 133: 218.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\219.pdb
+INFO:root:Finished 134: 219.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\22.pdb
+INFO:root:Finished 135: 22.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\220.pdb
+INFO:root:Finished 136: 220.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\221.pdb
+INFO:root:Finished 137: 221.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\222.pdb
+INFO:root:Finished 138: 222.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\223.pdb
+INFO:root:Finished 139: 223.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\224.pdb
+INFO:root:Finished 140: 224.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\225.pdb
+INFO:root:Finished 141: 225.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\226.pdb
+INFO:root:Finished 142: 226.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\227.pdb
+INFO:root:Finished 143: 227.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\228.pdb
+INFO:root:Finished 144: 228.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\229.pdb
+INFO:root:Finished 145: 229.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\23.pdb
+INFO:root:Finished 146: 23.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\230.pdb
+INFO:root:Finished 147: 230.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\231.pdb
+INFO:root:Finished 148: 231.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\232.pdb
+INFO:root:Finished 149: 232.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\233.pdb
+INFO:root:Finished 150: 233.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\234.pdb
+INFO:root:Finished 151: 234.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\235.pdb
+INFO:root:Finished 152: 235.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\236.pdb
+INFO:root:Finished 153: 236.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\237.pdb
+INFO:root:Finished 154: 237.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\238.pdb
+INFO:root:Finished 155: 238.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\239.pdb
+INFO:root:Finished 156: 239.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\24.pdb
+INFO:root:Finished 157: 24.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\240.pdb
+INFO:root:Finished 158: 240.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\241.pdb
+INFO:root:Finished 159: 241.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\242.pdb
+INFO:root:Finished 160: 242.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\243.pdb
+INFO:root:Finished 161: 243.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\244.pdb
+INFO:root:Finished 162: 244.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\245.pdb
+INFO:root:Finished 163: 245.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\246.pdb
+INFO:root:Finished 164: 246.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\247.pdb
+INFO:root:Finished 165: 247.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\248.pdb
+INFO:root:Finished 166: 248.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\249.pdb
+INFO:root:Finished 167: 249.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\25.pdb
+INFO:root:Finished 168: 25.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\250.pdb
+INFO:root:Finished 169: 250.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\251.pdb
+INFO:root:Finished 170: 251.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\252.pdb
+INFO:root:Finished 171: 252.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\253.pdb
+INFO:root:Finished 172: 253.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\254.pdb
+INFO:root:Finished 173: 254.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\255.pdb
+INFO:root:Finished 174: 255.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\256.pdb
+INFO:root:Finished 175: 256.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\257.pdb
+INFO:root:Finished 176: 257.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\258.pdb
+INFO:root:Finished 177: 258.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\259.pdb
+INFO:root:Finished 178: 259.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\26.pdb
+INFO:root:Finished 179: 26.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\260.pdb
+INFO:root:Finished 180: 260.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\261.pdb
+INFO:root:Finished 181: 261.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\262.pdb
+INFO:root:Finished 182: 262.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\263.pdb
+INFO:root:Finished 183: 263.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\264.pdb
+INFO:root:Finished 184: 264.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\265.pdb
+INFO:root:Finished 185: 265.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\266.pdb
+INFO:root:Finished 186: 266.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\267.pdb
+INFO:root:Finished 187: 267.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\268.pdb
+INFO:root:Finished 188: 268.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\269.pdb
+INFO:root:Finished 189: 269.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\27.pdb
+INFO:root:Finished 190: 27.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\270.pdb
+INFO:root:Finished 191: 270.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\271.pdb
+INFO:root:Finished 192: 271.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\272.pdb
+INFO:root:Finished 193: 272.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\273.pdb
+INFO:root:Finished 194: 273.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\274.pdb
+INFO:root:Finished 195: 274.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\275.pdb
+INFO:root:Finished 196: 275.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\276.pdb
+INFO:root:Finished 197: 276.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\277.pdb
+INFO:root:Finished 198: 277.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\278.pdb
+INFO:root:Finished 199: 278.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\279.pdb
+INFO:root:Finished 200: 279.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\28.pdb
+INFO:root:Finished 201: 28.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\280.pdb
+INFO:root:Finished 202: 280.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\281.pdb
+INFO:root:Finished 203: 281.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\282.pdb
+INFO:root:Finished 204: 282.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\283.pdb
+INFO:root:Finished 205: 283.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\284.pdb
+INFO:root:Finished 206: 284.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\285.pdb
+INFO:root:Finished 207: 285.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\286.pdb
+INFO:root:Finished 208: 286.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\287.pdb
+INFO:root:Finished 209: 287.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\288.pdb
+INFO:root:Finished 210: 288.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\289.pdb
+INFO:root:Finished 211: 289.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\29.pdb
+INFO:root:Finished 212: 29.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\290.pdb
+INFO:root:Finished 213: 290.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\291.pdb
+INFO:root:Finished 214: 291.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\292.pdb
+INFO:root:Finished 215: 292.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\293.pdb
+INFO:root:Finished 216: 293.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\294.pdb
+INFO:root:Finished 217: 294.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\295.pdb
+INFO:root:Finished 218: 295.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\296.pdb
+INFO:root:Finished 219: 296.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\297.pdb
+INFO:root:Finished 220: 297.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\298.pdb
+INFO:root:Finished 221: 298.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\299.pdb
+INFO:root:Finished 222: 299.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\3.pdb
+INFO:root:Finished 223: 3.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\30.pdb
+INFO:root:Finished 224: 30.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\300.pdb
+INFO:root:Finished 225: 300.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\301.pdb
+INFO:root:Finished 226: 301.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\302.pdb
+INFO:root:Finished 227: 302.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\303.pdb
+INFO:root:Finished 228: 303.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\304.pdb
+INFO:root:Finished 229: 304.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\305.pdb
+INFO:root:Finished 230: 305.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\306.pdb
+INFO:root:Finished 231: 306.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\307.pdb
+INFO:root:Finished 232: 307.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\308.pdb
+INFO:root:Finished 233: 308.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\309.pdb
+INFO:root:Finished 234: 309.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\31.pdb
+INFO:root:Finished 235: 31.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\310.pdb
+INFO:root:Finished 236: 310.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\311.pdb
+INFO:root:Finished 237: 311.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\312.pdb
+INFO:root:Finished 238: 312.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\313.pdb
+INFO:root:Finished 239: 313.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\314.pdb
+INFO:root:Finished 240: 314.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\315.pdb
+INFO:root:Finished 241: 315.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\316.pdb
+INFO:root:Finished 242: 316.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\317.pdb
+INFO:root:Finished 243: 317.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\318.pdb
+INFO:root:Finished 244: 318.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\319.pdb
+INFO:root:Finished 245: 319.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\32.pdb
+INFO:root:Finished 246: 32.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\320.pdb
+INFO:root:Finished 247: 320.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\321.pdb
+INFO:root:Finished 248: 321.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\322.pdb
+INFO:root:Finished 249: 322.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\323.pdb
+INFO:root:Finished 250: 323.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\324.pdb
+INFO:root:Finished 251: 324.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\325.pdb
+INFO:root:Finished 252: 325.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\326.pdb
+INFO:root:Finished 253: 326.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\327.pdb
+INFO:root:Finished 254: 327.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\328.pdb
+INFO:root:Finished 255: 328.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\329.pdb
+INFO:root:Finished 256: 329.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\33.pdb
+INFO:root:Finished 257: 33.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\330.pdb
+INFO:root:Finished 258: 330.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\331.pdb
+INFO:root:Finished 259: 331.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\332.pdb
+INFO:root:Finished 260: 332.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\333.pdb
+INFO:root:Finished 261: 333.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\334.pdb
+INFO:root:Finished 262: 334.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\335.pdb
+INFO:root:Finished 263: 335.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\336.pdb
+INFO:root:Finished 264: 336.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\337.pdb
+INFO:root:Finished 265: 337.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\338.pdb
+INFO:root:Finished 266: 338.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\339.pdb
+INFO:root:Finished 267: 339.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\34.pdb
+INFO:root:Finished 268: 34.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\340.pdb
+INFO:root:Finished 269: 340.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\341.pdb
+INFO:root:Finished 270: 341.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\342.pdb
+INFO:root:Finished 271: 342.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\343.pdb
+INFO:root:Finished 272: 343.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\344.pdb
+INFO:root:Finished 273: 344.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\345.pdb
+INFO:root:Finished 274: 345.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\346.pdb
+INFO:root:Finished 275: 346.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\347.pdb
+INFO:root:Finished 276: 347.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\348.pdb
+INFO:root:Finished 277: 348.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\349.pdb
+INFO:root:Finished 278: 349.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\35.pdb
+INFO:root:Finished 279: 35.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\350.pdb
+INFO:root:Finished 280: 350.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\351.pdb
+INFO:root:Finished 281: 351.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\352.pdb
+INFO:root:Finished 282: 352.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\353.pdb
+INFO:root:Finished 283: 353.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\354.pdb
+INFO:root:Finished 284: 354.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\355.pdb
+INFO:root:Finished 285: 355.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\356.pdb
+INFO:root:Finished 286: 356.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\357.pdb
+INFO:root:Finished 287: 357.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\358.pdb
+INFO:root:Finished 288: 358.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\359.pdb
+INFO:root:Finished 289: 359.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\36.pdb
+INFO:root:Finished 290: 36.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\360.pdb
+INFO:root:Finished 291: 360.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\361.pdb
+INFO:root:Finished 292: 361.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\362.pdb
+INFO:root:Finished 293: 362.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\363.pdb
+INFO:root:Finished 294: 363.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\364.pdb
+INFO:root:Finished 295: 364.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\365.pdb
+INFO:root:Finished 296: 365.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\366.pdb
+INFO:root:Finished 297: 366.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\367.pdb
+INFO:root:Finished 298: 367.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\368.pdb
+INFO:root:Finished 299: 368.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\369.pdb
+INFO:root:Finished 300: 369.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\37.pdb
+INFO:root:Finished 301: 37.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\370.pdb
+INFO:root:Finished 302: 370.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\371.pdb
+INFO:root:Finished 303: 371.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\372.pdb
+INFO:root:Finished 304: 372.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\373.pdb
+INFO:root:Finished 305: 373.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\374.pdb
+INFO:root:Finished 306: 374.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\375.pdb
+INFO:root:Finished 307: 375.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\376.pdb
+INFO:root:Finished 308: 376.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\377.pdb
+INFO:root:Finished 309: 377.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\378.pdb
+INFO:root:Finished 310: 378.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\379.pdb
+INFO:root:Finished 311: 379.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\38.pdb
+INFO:root:Finished 312: 38.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\380.pdb
+INFO:root:Finished 313: 380.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\381.pdb
+INFO:root:Finished 314: 381.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\382.pdb
+INFO:root:Finished 315: 382.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\383.pdb
+INFO:root:Finished 316: 383.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\384.pdb
+INFO:root:Finished 317: 384.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\385.pdb
+INFO:root:Finished 318: 385.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\386.pdb
+INFO:root:Finished 319: 386.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\387.pdb
+INFO:root:Finished 320: 387.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\388.pdb
+INFO:root:Finished 321: 388.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\389.pdb
+INFO:root:Finished 322: 389.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\39.pdb
+INFO:root:Finished 323: 39.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\390.pdb
+INFO:root:Finished 324: 390.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\391.pdb
+INFO:root:Finished 325: 391.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\392.pdb
+INFO:root:Finished 326: 392.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\393.pdb
+INFO:root:Finished 327: 393.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\394.pdb
+INFO:root:Finished 328: 394.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\395.pdb
+INFO:root:Finished 329: 395.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\396.pdb
+INFO:root:Finished 330: 396.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\397.pdb
+INFO:root:Finished 331: 397.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\398.pdb
+INFO:root:Finished 332: 398.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\399.pdb
+INFO:root:Finished 333: 399.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\4.pdb
+INFO:root:Finished 334: 4.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\40.pdb
+INFO:root:Finished 335: 40.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\400.pdb
+INFO:root:Finished 336: 400.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\401.pdb
+INFO:root:Finished 337: 401.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\402.pdb
+INFO:root:Finished 338: 402.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\403.pdb
+INFO:root:Finished 339: 403.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\404.pdb
+INFO:root:Finished 340: 404.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\405.pdb
+INFO:root:Finished 341: 405.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\406.pdb
+INFO:root:Finished 342: 406.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\407.pdb
+INFO:root:Finished 343: 407.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\408.pdb
+INFO:root:Finished 344: 408.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\409.pdb
+INFO:root:Finished 345: 409.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\41.pdb
+INFO:root:Finished 346: 41.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\410.pdb
+INFO:root:Finished 347: 410.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\411.pdb
+INFO:root:Finished 348: 411.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\412.pdb
+INFO:root:Finished 349: 412.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\413.pdb
+INFO:root:Finished 350: 413.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\414.pdb
+INFO:root:Finished 351: 414.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\415.pdb
+INFO:root:Finished 352: 415.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\416.pdb
+INFO:root:Finished 353: 416.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\417.pdb
+INFO:root:Finished 354: 417.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\418.pdb
+INFO:root:Finished 355: 418.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\419.pdb
+INFO:root:Finished 356: 419.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\42.pdb
+INFO:root:Finished 357: 42.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\420.pdb
+INFO:root:Finished 358: 420.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\421.pdb
+INFO:root:Finished 359: 421.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\422.pdb
+INFO:root:Finished 360: 422.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\423.pdb
+INFO:root:Finished 361: 423.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\424.pdb
+INFO:root:Finished 362: 424.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\425.pdb
+INFO:root:Finished 363: 425.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\426.pdb
+INFO:root:Finished 364: 426.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\427.pdb
+INFO:root:Finished 365: 427.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\428.pdb
+INFO:root:Finished 366: 428.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\429.pdb
+INFO:root:Finished 367: 429.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\43.pdb
+INFO:root:Finished 368: 43.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\430.pdb
+INFO:root:Finished 369: 430.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\431.pdb
+INFO:root:Finished 370: 431.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\432.pdb
+INFO:root:Finished 371: 432.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\433.pdb
+INFO:root:Finished 372: 433.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\434.pdb
+INFO:root:Finished 373: 434.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\435.pdb
+INFO:root:Finished 374: 435.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\436.pdb
+INFO:root:Finished 375: 436.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\437.pdb
+INFO:root:Finished 376: 437.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\438.pdb
+INFO:root:Finished 377: 438.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\439.pdb
+INFO:root:Finished 378: 439.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\44.pdb
+INFO:root:Finished 379: 44.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\440.pdb
+INFO:root:Finished 380: 440.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\441.pdb
+INFO:root:Finished 381: 441.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\442.pdb
+INFO:root:Finished 382: 442.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\443.pdb
+INFO:root:Finished 383: 443.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\444.pdb
+INFO:root:Finished 384: 444.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\445.pdb
+INFO:root:Finished 385: 445.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\446.pdb
+INFO:root:Finished 386: 446.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\447.pdb
+INFO:root:Finished 387: 447.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\448.pdb
+INFO:root:Finished 388: 448.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\449.pdb
+INFO:root:Finished 389: 449.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\45.pdb
+INFO:root:Finished 390: 45.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\450.pdb
+INFO:root:Finished 391: 450.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\451.pdb
+INFO:root:Finished 392: 451.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\452.pdb
+INFO:root:Finished 393: 452.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\453.pdb
+INFO:root:Finished 394: 453.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\454.pdb
+INFO:root:Finished 395: 454.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\455.pdb
+INFO:root:Finished 396: 455.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\456.pdb
+INFO:root:Finished 397: 456.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\457.pdb
+INFO:root:Finished 398: 457.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\458.pdb
+INFO:root:Finished 399: 458.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\459.pdb
+INFO:root:Finished 400: 459.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\46.pdb
+INFO:root:Finished 401: 46.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\460.pdb
+INFO:root:Finished 402: 460.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\461.pdb
+INFO:root:Finished 403: 461.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\462.pdb
+INFO:root:Finished 404: 462.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\463.pdb
+INFO:root:Finished 405: 463.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\464.pdb
+INFO:root:Finished 406: 464.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\465.pdb
+INFO:root:Finished 407: 465.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\466.pdb
+INFO:root:Finished 408: 466.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\467.pdb
+INFO:root:Finished 409: 467.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\468.pdb
+INFO:root:Finished 410: 468.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\469.pdb
+INFO:root:Finished 411: 469.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\47.pdb
+INFO:root:Finished 412: 47.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\470.pdb
+INFO:root:Finished 413: 470.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\471.pdb
+INFO:root:Finished 414: 471.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\472.pdb
+INFO:root:Finished 415: 472.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\473.pdb
+INFO:root:Finished 416: 473.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\474.pdb
+INFO:root:Finished 417: 474.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\475.pdb
+INFO:root:Finished 418: 475.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\476.pdb
+INFO:root:Finished 419: 476.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\477.pdb
+INFO:root:Finished 420: 477.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\478.pdb
+INFO:root:Finished 421: 478.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\479.pdb
+INFO:root:Finished 422: 479.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\48.pdb
+INFO:root:Finished 423: 48.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\480.pdb
+INFO:root:Finished 424: 480.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\481.pdb
+INFO:root:Finished 425: 481.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\482.pdb
+INFO:root:Finished 426: 482.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\483.pdb
+INFO:root:Finished 427: 483.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\484.pdb
+INFO:root:Finished 428: 484.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\485.pdb
+INFO:root:Finished 429: 485.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\486.pdb
+INFO:root:Finished 430: 486.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\487.pdb
+INFO:root:Finished 431: 487.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\488.pdb
+INFO:root:Finished 432: 488.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\489.pdb
+INFO:root:Finished 433: 489.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\49.pdb
+INFO:root:Finished 434: 49.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\490.pdb
+INFO:root:Finished 435: 490.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\491.pdb
+INFO:root:Finished 436: 491.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\492.pdb
+INFO:root:Finished 437: 492.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\493.pdb
+INFO:root:Finished 438: 493.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\494.pdb
+INFO:root:Finished 439: 494.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\495.pdb
+INFO:root:Finished 440: 495.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\496.pdb
+INFO:root:Finished 441: 496.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\497.pdb
+INFO:root:Finished 442: 497.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\498.pdb
+INFO:root:Finished 443: 498.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\499.pdb
+INFO:root:Finished 444: 499.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\5.pdb
+[17:57:12] Explicit valence for atom # 27 C, 5, is greater than permitted
+WARNING:root:Skipping 5.pdb: RDKit failed to parse d:\Professional\TheProject\BBB-model\Structures\pdb\5.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\50.pdb
+INFO:root:Finished 445: 50.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\500.pdb
+INFO:root:Finished 446: 500.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\501.pdb
+INFO:root:Finished 447: 501.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\502.pdb
+INFO:root:Finished 448: 502.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\503.pdb
+INFO:root:Finished 449: 503.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\504.pdb
+INFO:root:Finished 450: 504.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\505.pdb
+INFO:root:Finished 451: 505.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\506.pdb
+INFO:root:Finished 452: 506.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\507.pdb
+INFO:root:Finished 453: 507.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\508.pdb
+INFO:root:Finished 454: 508.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\509.pdb
+INFO:root:Finished 455: 509.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\51.pdb
+INFO:root:Finished 456: 51.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\510.pdb
+INFO:root:Finished 457: 510.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\511.pdb
+INFO:root:Finished 458: 511.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\512.pdb
+INFO:root:Finished 459: 512.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\513.pdb
+INFO:root:Finished 460: 513.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\514.pdb
+INFO:root:Finished 461: 514.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\515.pdb
+INFO:root:Finished 462: 515.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\516.pdb
+INFO:root:Finished 463: 516.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\517.pdb
+INFO:root:Finished 464: 517.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\518.pdb
+INFO:root:Finished 465: 518.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\519.pdb
+INFO:root:Finished 466: 519.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\52.pdb
+INFO:root:Finished 467: 52.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\520.pdb
+INFO:root:Finished 468: 520.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\521.pdb
+INFO:root:Finished 469: 521.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\522.pdb
+INFO:root:Finished 470: 522.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\523.pdb
+INFO:root:Finished 471: 523.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\524.pdb
+INFO:root:Finished 472: 524.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\525.pdb
+INFO:root:Finished 473: 525.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\526.pdb
+INFO:root:Finished 474: 526.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\527.pdb
+INFO:root:Finished 475: 527.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\528.pdb
+INFO:root:Finished 476: 528.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\529.pdb
+INFO:root:Finished 477: 529.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\53.pdb
+INFO:root:Finished 478: 53.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\530.pdb
+INFO:root:Finished 479: 530.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\531.pdb
+INFO:root:Finished 480: 531.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\532.pdb
+INFO:root:Finished 481: 532.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\533.pdb
+INFO:root:Finished 482: 533.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\534.pdb
+INFO:root:Finished 483: 534.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\535.pdb
+INFO:root:Finished 484: 535.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\536.pdb
+INFO:root:Finished 485: 536.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\537.pdb
+INFO:root:Finished 486: 537.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\538.pdb
+INFO:root:Finished 487: 538.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\539.pdb
+INFO:root:Finished 488: 539.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\54.pdb
+INFO:root:Finished 489: 54.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\540.pdb
+INFO:root:Finished 490: 540.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\541.pdb
+INFO:root:Finished 491: 541.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\542.pdb
+INFO:root:Finished 492: 542.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\543.pdb
+INFO:root:Finished 493: 543.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\544.pdb
+INFO:root:Finished 494: 544.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\545.pdb
+INFO:root:Finished 495: 545.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\546.pdb
+INFO:root:Finished 496: 546.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\547.pdb
+INFO:root:Finished 497: 547.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\548.pdb
+INFO:root:Finished 498: 548.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\549.pdb
+INFO:root:Finished 499: 549.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\55.pdb
+INFO:root:Finished 500: 55.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\550.pdb
+INFO:root:Finished 501: 550.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\551.pdb
+INFO:root:Finished 502: 551.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\552.pdb
+INFO:root:Finished 503: 552.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\553.pdb
+INFO:root:Finished 504: 553.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\554.pdb
+INFO:root:Finished 505: 554.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\555.pdb
+INFO:root:Finished 506: 555.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\556.pdb
+INFO:root:Finished 507: 556.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\557.pdb
+INFO:root:Finished 508: 557.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\558.pdb
+INFO:root:Finished 509: 558.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\559.pdb
+INFO:root:Finished 510: 559.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\56.pdb
+INFO:root:Finished 511: 56.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\560.pdb
+INFO:root:Finished 512: 560.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\561.pdb
+INFO:root:Finished 513: 561.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\562.pdb
+INFO:root:Finished 514: 562.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\563.pdb
+INFO:root:Finished 515: 563.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\564.pdb
+INFO:root:Finished 516: 564.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\565.pdb
+INFO:root:Finished 517: 565.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\566.pdb
+INFO:root:Finished 518: 566.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\567.pdb
+INFO:root:Finished 519: 567.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\568.pdb
+INFO:root:Finished 520: 568.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\569.pdb
+INFO:root:Finished 521: 569.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\57.pdb
+INFO:root:Finished 522: 57.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\570.pdb
+INFO:root:Finished 523: 570.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\571.pdb
+INFO:root:Finished 524: 571.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\572.pdb
+INFO:root:Finished 525: 572.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\573.pdb
+INFO:root:Finished 526: 573.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\574.pdb
+INFO:root:Finished 527: 574.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\575.pdb
+INFO:root:Finished 528: 575.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\576.pdb
+INFO:root:Finished 529: 576.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\577.pdb
+INFO:root:Finished 530: 577.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\578.pdb
+INFO:root:Finished 531: 578.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\579.pdb
+INFO:root:Finished 532: 579.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\58.pdb
+INFO:root:Finished 533: 58.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\580.pdb
+INFO:root:Finished 534: 580.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\581.pdb
+INFO:root:Finished 535: 581.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\582.pdb
+INFO:root:Finished 536: 582.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\583.pdb
+INFO:root:Finished 537: 583.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\584.pdb
+INFO:root:Finished 538: 584.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\585.pdb
+INFO:root:Finished 539: 585.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\586.pdb
+INFO:root:Finished 540: 586.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\587.pdb
+INFO:root:Finished 541: 587.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\588.pdb
+INFO:root:Finished 542: 588.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\589.pdb
+INFO:root:Finished 543: 589.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\59.pdb
+INFO:root:Finished 544: 59.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\590.pdb
+INFO:root:Finished 545: 590.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\591.pdb
+INFO:root:Finished 546: 591.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\592.pdb
+INFO:root:Finished 547: 592.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\593.pdb
+INFO:root:Finished 548: 593.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\594.pdb
+INFO:root:Finished 549: 594.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\595.pdb
+INFO:root:Finished 550: 595.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\596.pdb
+INFO:root:Finished 551: 596.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\597.pdb
+INFO:root:Finished 552: 597.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\598.pdb
+INFO:root:Finished 553: 598.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\599.pdb
+INFO:root:Finished 554: 599.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\6.pdb
+INFO:root:Finished 555: 6.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\60.pdb
+INFO:root:Finished 556: 60.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\600.pdb
+INFO:root:Finished 557: 600.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\601.pdb
+INFO:root:Finished 558: 601.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\602.pdb
+INFO:root:Finished 559: 602.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\603.pdb
+INFO:root:Finished 560: 603.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\604.pdb
+INFO:root:Finished 561: 604.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\605.pdb
+INFO:root:Finished 562: 605.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\606.pdb
+INFO:root:Finished 563: 606.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\607.pdb
+INFO:root:Finished 564: 607.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\608.pdb
+INFO:root:Finished 565: 608.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\609.pdb
+INFO:root:Finished 566: 609.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\61.pdb
+INFO:root:Finished 567: 61.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\610.pdb
+INFO:root:Finished 568: 610.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\611.pdb
+INFO:root:Finished 569: 611.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\612.pdb
+INFO:root:Finished 570: 612.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\613.pdb
+INFO:root:Finished 571: 613.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\614.pdb
+INFO:root:Finished 572: 614.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\615.pdb
+INFO:root:Finished 573: 615.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\616.pdb
+INFO:root:Finished 574: 616.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\617.pdb
+INFO:root:Finished 575: 617.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\618.pdb
+INFO:root:Finished 576: 618.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\619.pdb
+INFO:root:Finished 577: 619.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\62.pdb
+INFO:root:Finished 578: 62.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\620.pdb
+INFO:root:Finished 579: 620.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\621.pdb
+INFO:root:Finished 580: 621.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\622.pdb
+INFO:root:Finished 581: 622.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\623.pdb
+INFO:root:Finished 582: 623.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\624.pdb
+INFO:root:Finished 583: 624.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\625.pdb
+INFO:root:Finished 584: 625.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\626.pdb
+INFO:root:Finished 585: 626.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\627.pdb
+INFO:root:Finished 586: 627.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\628.pdb
+INFO:root:Finished 587: 628.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\629.pdb
+INFO:root:Finished 588: 629.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\63.pdb
+INFO:root:Finished 589: 63.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\630.pdb
+INFO:root:Finished 590: 630.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\631.pdb
+INFO:root:Finished 591: 631.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\632.pdb
+INFO:root:Finished 592: 632.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\633.pdb
+INFO:root:Finished 593: 633.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\634.pdb
+INFO:root:Finished 594: 634.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\635.pdb
+INFO:root:Finished 595: 635.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\636.pdb
+INFO:root:Finished 596: 636.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\637.pdb
+INFO:root:Finished 597: 637.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\638.pdb
+INFO:root:Finished 598: 638.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\639.pdb
+INFO:root:Finished 599: 639.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\64.pdb
+INFO:root:Finished 600: 64.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\640.pdb
+INFO:root:Finished 601: 640.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\641.pdb
+INFO:root:Finished 602: 641.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\642.pdb
+INFO:root:Finished 603: 642.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\643.pdb
+INFO:root:Finished 604: 643.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\644.pdb
+INFO:root:Finished 605: 644.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\645.pdb
+INFO:root:Finished 606: 645.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\646.pdb
+INFO:root:Finished 607: 646.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\647.pdb
+INFO:root:Finished 608: 647.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\648.pdb
+INFO:root:Finished 609: 648.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\649.pdb
+INFO:root:Finished 610: 649.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\65.pdb
+INFO:root:Finished 611: 65.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\650.pdb
+INFO:root:Finished 612: 650.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\651.pdb
+INFO:root:Finished 613: 651.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\652.pdb
+INFO:root:Finished 614: 652.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\653.pdb
+INFO:root:Finished 615: 653.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\654.pdb
+INFO:root:Finished 616: 654.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\655.pdb
+INFO:root:Finished 617: 655.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\656.pdb
+INFO:root:Finished 618: 656.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\657.pdb
+INFO:root:Finished 619: 657.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\658.pdb
+INFO:root:Finished 620: 658.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\659.pdb
+INFO:root:Finished 621: 659.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\66.pdb
+INFO:root:Finished 622: 66.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\660.pdb
+INFO:root:Finished 623: 660.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\661.pdb
+INFO:root:Finished 624: 661.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\662.pdb
+INFO:root:Finished 625: 662.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\663.pdb
+INFO:root:Finished 626: 663.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\664.pdb
+INFO:root:Finished 627: 664.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\665.pdb
+INFO:root:Finished 628: 665.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\666.pdb
+INFO:root:Finished 629: 666.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\667.pdb
+INFO:root:Finished 630: 667.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\668.pdb
+INFO:root:Finished 631: 668.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\669.pdb
+INFO:root:Finished 632: 669.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\67.pdb
+INFO:root:Finished 633: 67.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\670.pdb
+INFO:root:Finished 634: 670.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\671.pdb
+INFO:root:Finished 635: 671.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\672.pdb
+INFO:root:Finished 636: 672.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\673.pdb
+INFO:root:Finished 637: 673.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\674.pdb
+INFO:root:Finished 638: 674.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\675.pdb
+INFO:root:Finished 639: 675.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\676.pdb
+INFO:root:Finished 640: 676.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\677.pdb
+INFO:root:Finished 641: 677.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\678.pdb
+INFO:root:Finished 642: 678.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\679.pdb
+INFO:root:Finished 643: 679.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\68.pdb
+[17:57:22] Explicit valence for atom # 67 O, 3, is greater than permitted
+WARNING:root:Skipping 68.pdb: RDKit failed to parse d:\Professional\TheProject\BBB-model\Structures\pdb\68.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\680.pdb
+INFO:root:Finished 644: 680.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\681.pdb
+INFO:root:Finished 645: 681.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\682.pdb
+INFO:root:Finished 646: 682.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\683.pdb
+INFO:root:Finished 647: 683.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\684.pdb
+INFO:root:Finished 648: 684.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\685.pdb
+INFO:root:Finished 649: 685.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\686.pdb
+INFO:root:Finished 650: 686.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\687.pdb
+INFO:root:Finished 651: 687.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\688.pdb
+INFO:root:Finished 652: 688.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\689.pdb
+INFO:root:Finished 653: 689.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\69.pdb
+INFO:root:Finished 654: 69.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\690.pdb
+INFO:root:Finished 655: 690.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\691.pdb
+INFO:root:Finished 656: 691.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\692.pdb
+INFO:root:Finished 657: 692.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\693.pdb
+INFO:root:Finished 658: 693.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\694.pdb
+INFO:root:Finished 659: 694.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\695.pdb
+INFO:root:Finished 660: 695.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\696.pdb
+INFO:root:Finished 661: 696.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\697.pdb
+INFO:root:Finished 662: 697.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\698.pdb
+INFO:root:Finished 663: 698.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\699.pdb
+INFO:root:Finished 664: 699.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\7.pdb
+INFO:root:Finished 665: 7.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\70.pdb
+INFO:root:Finished 666: 70.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\700.pdb
+INFO:root:Finished 667: 700.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\701.pdb
+INFO:root:Finished 668: 701.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\702.pdb
+INFO:root:Finished 669: 702.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\703.pdb
+INFO:root:Finished 670: 703.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\704.pdb
+INFO:root:Finished 671: 704.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\705.pdb
+INFO:root:Finished 672: 705.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\706.pdb
+INFO:root:Finished 673: 706.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\707.pdb
+INFO:root:Finished 674: 707.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\708.pdb
+INFO:root:Finished 675: 708.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\709.pdb
+INFO:root:Finished 676: 709.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\71.pdb
+INFO:root:Finished 677: 71.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\710.pdb
+INFO:root:Finished 678: 710.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\711.pdb
+INFO:root:Finished 679: 711.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\712.pdb
+INFO:root:Finished 680: 712.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\713.pdb
+INFO:root:Finished 681: 713.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\714.pdb
+INFO:root:Finished 682: 714.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\715.pdb
+INFO:root:Finished 683: 715.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\716.pdb
+INFO:root:Finished 684: 716.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\717.pdb
+INFO:root:Finished 685: 717.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\718.pdb
+INFO:root:Finished 686: 718.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\719.pdb
+INFO:root:Finished 687: 719.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\72.pdb
+INFO:root:Finished 688: 72.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\720.pdb
+INFO:root:Finished 689: 720.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\721.pdb
+INFO:root:Finished 690: 721.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\722.pdb
+INFO:root:Finished 691: 722.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\723.pdb
+INFO:root:Finished 692: 723.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\724.pdb
+INFO:root:Finished 693: 724.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\725.pdb
+INFO:root:Finished 694: 725.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\726.pdb
+INFO:root:Finished 695: 726.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\727.pdb
+INFO:root:Finished 696: 727.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\728.pdb
+INFO:root:Finished 697: 728.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\729.pdb
+INFO:root:Finished 698: 729.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\73.pdb
+INFO:root:Finished 699: 73.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\730.pdb
+INFO:root:Finished 700: 730.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\731.pdb
+INFO:root:Finished 701: 731.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\732.pdb
+INFO:root:Finished 702: 732.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\733.pdb
+INFO:root:Finished 703: 733.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\734.pdb
+INFO:root:Finished 704: 734.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\735.pdb
+INFO:root:Finished 705: 735.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\736.pdb
+INFO:root:Finished 706: 736.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\737.pdb
+INFO:root:Finished 707: 737.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\738.pdb
+INFO:root:Finished 708: 738.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\739.pdb
+INFO:root:Finished 709: 739.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\74.pdb
+INFO:root:Finished 710: 74.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\740.pdb
+INFO:root:Finished 711: 740.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\741.pdb
+INFO:root:Finished 712: 741.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\742.pdb
+INFO:root:Finished 713: 742.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\743.pdb
+INFO:root:Finished 714: 743.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\744.pdb
+INFO:root:Finished 715: 744.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\745.pdb
+INFO:root:Finished 716: 745.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\746.pdb
+INFO:root:Finished 717: 746.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\747.pdb
+INFO:root:Finished 718: 747.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\748.pdb
+INFO:root:Finished 719: 748.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\749.pdb
+INFO:root:Finished 720: 749.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\75.pdb
+INFO:root:Finished 721: 75.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\750.pdb
+INFO:root:Finished 722: 750.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\751.pdb
+INFO:root:Finished 723: 751.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\752.pdb
+INFO:root:Finished 724: 752.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\753.pdb
+INFO:root:Finished 725: 753.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\754.pdb
+INFO:root:Finished 726: 754.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\755.pdb
+INFO:root:Finished 727: 755.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\756.pdb
+INFO:root:Finished 728: 756.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\757.pdb
+INFO:root:Finished 729: 757.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\758.pdb
+INFO:root:Finished 730: 758.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\759.pdb
+INFO:root:Finished 731: 759.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\76.pdb
+INFO:root:Finished 732: 76.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\760.pdb
+INFO:root:Finished 733: 760.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\761.pdb
+INFO:root:Finished 734: 761.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\762.pdb
+INFO:root:Finished 735: 762.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\763.pdb
+INFO:root:Finished 736: 763.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\764.pdb
+INFO:root:Finished 737: 764.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\765.pdb
+INFO:root:Finished 738: 765.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\766.pdb
+INFO:root:Finished 739: 766.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\767.pdb
+INFO:root:Finished 740: 767.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\768.pdb
+INFO:root:Finished 741: 768.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\769.pdb
+INFO:root:Finished 742: 769.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\77.pdb
+INFO:root:Finished 743: 77.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\770.pdb
+INFO:root:Finished 744: 770.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\771.pdb
+INFO:root:Finished 745: 771.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\772.pdb
+INFO:root:Finished 746: 772.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\773.pdb
+INFO:root:Finished 747: 773.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\774.pdb
+INFO:root:Finished 748: 774.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\775.pdb
+INFO:root:Finished 749: 775.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\776.pdb
+INFO:root:Finished 750: 776.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\777.pdb
+INFO:root:Finished 751: 777.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\778.pdb
+INFO:root:Finished 752: 778.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\779.pdb
+INFO:root:Finished 753: 779.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\78.pdb
+INFO:root:Finished 754: 78.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\780.pdb
+INFO:root:Finished 755: 780.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\781.pdb
+INFO:root:Finished 756: 781.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\782.pdb
+INFO:root:Finished 757: 782.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\783.pdb
+INFO:root:Finished 758: 783.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\784.pdb
+INFO:root:Finished 759: 784.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\785.pdb
+INFO:root:Finished 760: 785.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\786.pdb
+INFO:root:Finished 761: 786.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\787.pdb
+INFO:root:Finished 762: 787.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\788.pdb
+INFO:root:Finished 763: 788.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\789.pdb
+INFO:root:Finished 764: 789.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\79.pdb
+INFO:root:Finished 765: 79.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\790.pdb
+INFO:root:Finished 766: 790.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\791.pdb
+INFO:root:Finished 767: 791.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\792.pdb
+INFO:root:Finished 768: 792.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\793.pdb
+INFO:root:Finished 769: 793.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\794.pdb
+INFO:root:Finished 770: 794.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\795.pdb
+INFO:root:Finished 771: 795.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\796.pdb
+INFO:root:Finished 772: 796.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\797.pdb
+INFO:root:Finished 773: 797.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\798.pdb
+INFO:root:Finished 774: 798.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\799.pdb
+INFO:root:Finished 775: 799.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\8.pdb
+INFO:root:Finished 776: 8.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\80.pdb
+INFO:root:Finished 777: 80.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\800.pdb
+INFO:root:Finished 778: 800.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\801.pdb
+INFO:root:Finished 779: 801.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\802.pdb
+INFO:root:Finished 780: 802.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\803.pdb
+INFO:root:Finished 781: 803.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\804.pdb
+INFO:root:Finished 782: 804.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\805.pdb
+INFO:root:Finished 783: 805.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\806.pdb
+INFO:root:Finished 784: 806.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\807.pdb
+INFO:root:Finished 785: 807.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\808.pdb
+INFO:root:Finished 786: 808.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\809.pdb
+INFO:root:Finished 787: 809.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\81.pdb
+INFO:root:Finished 788: 81.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\810.pdb
+INFO:root:Finished 789: 810.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\811.pdb
+INFO:root:Finished 790: 811.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\812.pdb
+INFO:root:Finished 791: 812.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\813.pdb
+INFO:root:Finished 792: 813.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\814.pdb
+INFO:root:Finished 793: 814.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\815.pdb
+INFO:root:Finished 794: 815.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\816.pdb
+INFO:root:Finished 795: 816.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\817.pdb
+INFO:root:Finished 796: 817.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\818.pdb
+INFO:root:Finished 797: 818.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\819.pdb
+INFO:root:Finished 798: 819.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\82.pdb
+INFO:root:Finished 799: 82.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\820.pdb
+INFO:root:Finished 800: 820.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\821.pdb
+INFO:root:Finished 801: 821.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\822.pdb
+INFO:root:Finished 802: 822.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\823.pdb
+INFO:root:Finished 803: 823.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\824.pdb
+INFO:root:Finished 804: 824.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\825.pdb
+INFO:root:Finished 805: 825.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\826.pdb
+INFO:root:Finished 806: 826.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\827.pdb
+INFO:root:Finished 807: 827.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\828.pdb
+INFO:root:Finished 808: 828.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\829.pdb
+INFO:root:Finished 809: 829.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\83.pdb
+INFO:root:Finished 810: 83.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\830.pdb
+INFO:root:Finished 811: 830.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\831.pdb
+INFO:root:Finished 812: 831.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\832.pdb
+INFO:root:Finished 813: 832.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\833.pdb
+INFO:root:Finished 814: 833.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\834.pdb
+INFO:root:Finished 815: 834.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\835.pdb
+INFO:root:Finished 816: 835.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\836.pdb
+INFO:root:Finished 817: 836.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\837.pdb
+INFO:root:Finished 818: 837.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\838.pdb
+INFO:root:Finished 819: 838.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\839.pdb
+INFO:root:Finished 820: 839.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\84.pdb
+INFO:root:Finished 821: 84.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\840.pdb
+INFO:root:Finished 822: 840.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\841.pdb
+INFO:root:Finished 823: 841.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\842.pdb
+INFO:root:Finished 824: 842.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\843.pdb
+INFO:root:Finished 825: 843.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\844.pdb
+INFO:root:Finished 826: 844.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\845.pdb
+INFO:root:Finished 827: 845.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\846.pdb
+INFO:root:Finished 828: 846.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\847.pdb
+INFO:root:Finished 829: 847.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\848.pdb
+INFO:root:Finished 830: 848.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\849.pdb
+INFO:root:Finished 831: 849.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\85.pdb
+INFO:root:Finished 832: 85.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\850.pdb
+INFO:root:Finished 833: 850.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\851.pdb
+INFO:root:Finished 834: 851.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\852.pdb
+INFO:root:Finished 835: 852.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\853.pdb
+INFO:root:Finished 836: 853.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\854.pdb
+INFO:root:Finished 837: 854.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\855.pdb
+INFO:root:Finished 838: 855.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\856.pdb
+INFO:root:Finished 839: 856.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\857.pdb
+INFO:root:Finished 840: 857.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\858.pdb
+INFO:root:Finished 841: 858.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\859.pdb
+INFO:root:Finished 842: 859.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\86.pdb
+INFO:root:Finished 843: 86.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\860.pdb
+INFO:root:Finished 844: 860.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\861.pdb
+INFO:root:Finished 845: 861.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\862.pdb
+INFO:root:Finished 846: 862.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\863.pdb
+INFO:root:Finished 847: 863.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\864.pdb
+INFO:root:Finished 848: 864.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\865.pdb
+INFO:root:Finished 849: 865.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\866.pdb
+INFO:root:Finished 850: 866.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\867.pdb
+INFO:root:Finished 851: 867.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\868.pdb
+INFO:root:Finished 852: 868.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\869.pdb
+INFO:root:Finished 853: 869.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\87.pdb
+INFO:root:Finished 854: 87.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\870.pdb
+INFO:root:Finished 855: 870.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\871.pdb
+INFO:root:Finished 856: 871.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\872.pdb
+INFO:root:Finished 857: 872.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\873.pdb
+INFO:root:Finished 858: 873.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\874.pdb
+INFO:root:Finished 859: 874.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\875.pdb
+INFO:root:Finished 860: 875.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\876.pdb
+INFO:root:Finished 861: 876.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\877.pdb
+INFO:root:Finished 862: 877.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\878.pdb
+INFO:root:Finished 863: 878.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\879.pdb
+INFO:root:Finished 864: 879.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\88.pdb
+INFO:root:Finished 865: 88.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\880.pdb
+INFO:root:Finished 866: 880.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\881.pdb
+INFO:root:Finished 867: 881.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\882.pdb
+INFO:root:Finished 868: 882.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\883.pdb
+INFO:root:Finished 869: 883.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\884.pdb
+INFO:root:Finished 870: 884.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\885.pdb
+INFO:root:Finished 871: 885.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\886.pdb
+INFO:root:Finished 872: 886.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\887.pdb
+INFO:root:Finished 873: 887.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\888.pdb
+INFO:root:Finished 874: 888.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\889.pdb
+INFO:root:Finished 875: 889.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\89.pdb
+INFO:root:Finished 876: 89.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\890.pdb
+INFO:root:Finished 877: 890.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\891.pdb
+INFO:root:Finished 878: 891.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\892.pdb
+INFO:root:Finished 879: 892.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\893.pdb
+INFO:root:Finished 880: 893.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\894.pdb
+INFO:root:Finished 881: 894.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\895.pdb
+INFO:root:Finished 882: 895.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\896.pdb
+INFO:root:Finished 883: 896.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\897.pdb
+INFO:root:Finished 884: 897.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\898.pdb
+INFO:root:Finished 885: 898.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\899.pdb
+INFO:root:Finished 886: 899.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\9.pdb
+INFO:root:Finished 887: 9.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\90.pdb
+INFO:root:Finished 888: 90.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\900.pdb
+INFO:root:Finished 889: 900.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\901.pdb
+INFO:root:Finished 890: 901.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\902.pdb
+INFO:root:Finished 891: 902.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\903.pdb
+INFO:root:Finished 892: 903.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\904.pdb
+INFO:root:Finished 893: 904.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\905.pdb
+INFO:root:Finished 894: 905.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\906.pdb
+INFO:root:Finished 895: 906.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\907.pdb
+INFO:root:Finished 896: 907.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\908.pdb
+INFO:root:Finished 897: 908.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\909.pdb
+INFO:root:Finished 898: 909.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\91.pdb
+INFO:root:Finished 899: 91.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\910.pdb
+INFO:root:Finished 900: 910.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\911.pdb
+INFO:root:Finished 901: 911.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\912.pdb
+INFO:root:Finished 902: 912.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\913.pdb
+INFO:root:Finished 903: 913.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\914.pdb
+INFO:root:Finished 904: 914.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\915.pdb
+INFO:root:Finished 905: 915.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\916.pdb
+INFO:root:Finished 906: 916.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\917.pdb
+INFO:root:Finished 907: 917.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\918.pdb
+INFO:root:Finished 908: 918.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\919.pdb
+INFO:root:Finished 909: 919.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\92.pdb
+INFO:root:Finished 910: 92.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\920.pdb
+INFO:root:Finished 911: 920.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\921.pdb
+INFO:root:Finished 912: 921.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\93.pdb
+INFO:root:Finished 913: 93.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\94.pdb
+INFO:root:Finished 914: 94.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\95.pdb
+INFO:root:Finished 915: 95.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\96.pdb
+INFO:root:Finished 916: 96.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\97.pdb
+INFO:root:Finished 917: 97.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\98.pdb
+INFO:root:Finished 918: 98.pdb
+INFO:root:Processing: d:\Professional\TheProject\BBB-model\Structures\pdb\99.pdb
+INFO:root:Finished 919: 99.pdb
+INFO:root:Saved results to fpArray_2.csv

@@ -32,7 +32,7 @@ act = act.to_numpy()
 
 #%% Load fingerprint array
 # Read feature array data from a CSV file and drop the first column (likely an ID or index column)
-fpArRaw = pd.read_csv('D:\\Codes\\fpArray.csv')
+fpArRaw = pd.read_csv('D:\\Professional\\TheProject\\BBB-model\\enhanced_fpArray.csv')
 fpAr = fpArRaw.drop(fpArRaw.columns[0], axis=1)  # Remove the first column
 fpAr = fpAr.to_numpy()  # Convert the DataFrame to a NumPy array
 
